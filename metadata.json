@@ -1,4 +1,5 @@
 {
+  "id": "36401af8-7743-494a-9b6f-2d06438618ae",
   "name": "Lab Equipment Safety",
   "description": "Mobile-friendly chemistry laboratory equipment lookup and safety documentation guide with Recharts 4-axis hazard radar mapping (Chemical, Electrical, Physical, Thermal), GHS hazard profiles, PPE checklists, and SOP procedures.",
   "requestFramePermissions": [],
